@@ -137,7 +137,7 @@ const Welcome = () => {
       {/* Bottom wave decoration */}
       <div className="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-black/20 to-transparent"></div>
 
-      <style jsx>{`
+      <style>{`
         @keyframes fade-in {
           from {
             opacity: 0;
